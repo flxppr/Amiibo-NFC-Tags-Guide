@@ -99,6 +99,7 @@ Amiibo-NFC-Tags-Guide/
 - Keep backup copies of your `.bin` files.
 - Use responsibly.
 - This repository is for educational purposes only.
+- Credits to r/LinksAmiiboArchive
 
 ---
 
