@@ -58,23 +58,6 @@ Simply scan your written NFC tag on your Nintendo console the same way you would
 
 ---
 
-## 📁 Suggested Repository Structure
-
-```
-Amiibo-NFC-Tags-Guide/
-├── README.md
-├── android-setup/
-│   └── tagmo-installation.md
-├── writing-guide/
-│   └── how-to-write-tags.md
-├── troubleshooting/
-│   └── common-errors.md
-├── images/
-│   └── screenshots/
-```
-
----
-
 ## ❓ Troubleshooting
 
 ### Tag Not Scanning?
